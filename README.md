@@ -20,4 +20,4 @@ Interactive sales dashboard built in Tableau
 ## Tools Used
 - Tableau Public
 
-- ![Sales Dashboard](Screenshot 2026-06-11 035929.png)
+- ![Dashboard](https://github.com/neetesh-rajpoot-18/Sales-Performance-Dashboard-Tabluea/blob/main/Screenshot%202026-06-11%20035929.png)
