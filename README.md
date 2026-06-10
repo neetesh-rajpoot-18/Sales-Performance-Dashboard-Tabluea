@@ -20,4 +20,4 @@ Interactive sales dashboard built in Tableau
 ## Tools Used
 - Tableau Public
 
-- ![Sales Dashboard](dashboard.png)
+- ![Sales Dashboard](Screenshot 2026-06-11 035929.png)
